@@ -20,9 +20,19 @@ Operator	Name	Example	Try it
 *	Multiplication	x * y	
 /	Division	x / y	
 %	Modulus	x % y	
-**	Exponentiation	x ** y	
+**	Exponentiation	x ** y	10 raise to the power 3 = 10^3
 //	Floor division	x // y	
 """
+a = 10
+b = 3
+print(a + b)  # 13
+print(a - b)  # 7
+print(a * b)  # 30
+print(a / b)  # 3.3333333333333335
+print(a % b)  # 1
+print(a ** b) # 1000
+print(a // b) # 3
+
 """
 Python Assignment Operators
 Assignment operators are used to assign values to variables:
@@ -38,7 +48,7 @@ Operator	Example	Same As	Try it
 **=	x **= 3	x = x ** 3	
 &=	x &= 3	x = x & 3	
 |=	x |= 3	x = x | 3	
-^=	x ^= 3	x = x ^ 3	
+^=	x ^= 3	x = x ^ 3	//xor
 >>=	x >>= 3	x = x >> 3	
 <<=	x <<= 3	x = x << 3	
 :=	print(x := 3)	x = 3
