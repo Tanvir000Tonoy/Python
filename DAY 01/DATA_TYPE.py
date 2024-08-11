@@ -2,7 +2,7 @@
 Author Name : Tanvir Rahman Tonoy
 Reference : https://www.w3schools.com/python/default.asp
 Date 01/08/2024 : My aim is to master the concepts of Python so that I can achieve my milstone of Machine learning
-Motivation : তুমি কিছু পারো না। পারবে ও না ।
+Motivation : তুমি কিছু পারো না। পারবে ও না । অণু তোমাকে বন্ধু ভাবে আর তুমি কী নিয়ে পরে আছো। move on man
 """
 # type String
 msg = "Hello I'm Learning Python Data Types"

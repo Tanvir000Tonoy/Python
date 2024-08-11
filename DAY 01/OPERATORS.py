@@ -136,3 +136,4 @@ not	Logical NOT
 and	AND	
 or	OR
 """
+# recap 1 - 11/08/2024
