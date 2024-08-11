@@ -45,7 +45,7 @@ replacedString = thisIsAString.replace("Good", "Bad")
 print(thisIsAString)
 print(replacedString)
 
-# The split() method returns a list where the text between the specified separator becomes the list items.
+# The split() method returns a list/array where the text between the specified separator becomes the list items.
 thisIsAString = thisIsAString.split(" ")
 print(thisIsAString)
 print(type(thisIsAString))
@@ -85,15 +85,24 @@ All string methods return new values. They do not change the original string.
 """
 
 # Method	Description
+exampleString = "Hello I'm Tanvir"
 # capitalize()	Converts the first character to upper case
+print(exampleString.capitalize())
 # casefold()	Converts string into lower case
+print(exampleString.casefold())
 # center()	Returns a centered string
 # count()	Returns the number of times a specified value occurs in a string
+print(exampleString.count('i'))
 # encode()	Returns an encoded version of the string
+print(exampleString.encode())
 # endswith()	Returns true if the string ends with the specified value
+print(exampleString.endswith("r"))
 # expandtabs()	Sets the tab size of the string
+print(exampleString.expandtabs()) # not clear actually ;)
 # find()	Searches the string for a specified value and returns the position of where it was found
+print(exampleString.find("Tanvir"))
 # format()	Formats specified values in a string
+
 # format_map()	Formats specified values in a string
 # index()	Searches the string for a specified value and returns the position of where it was found
 # isalnum()	Returns True if all characters in the string are alphanumeric
