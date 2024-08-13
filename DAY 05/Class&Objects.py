@@ -11,4 +11,4 @@ newObj = elts("Tanvir","20")
 # print(newObj)
 print(newObj.info())
 del elts
-# so if we call print inside a print function it will return a none value
+# so  if we call print inside a print function it will return a none value
