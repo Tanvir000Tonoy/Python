@@ -4,3 +4,4 @@ print(array1)
 print(np.__version__)
 print(np.__all__)
 print("What the hack")
+# এগুলো এত বিরক্তি কর কেন :*(
