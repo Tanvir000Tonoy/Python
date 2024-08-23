@@ -6,3 +6,4 @@ print(np.__all__)
 print("What the hack")
 # এগুলো এত বিরক্তি কর কেন :*(
 # will it work ?
+# learning numpy from 25 august 2024
